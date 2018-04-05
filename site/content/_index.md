@@ -1,7 +1,7 @@
 ---
 title: Great coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: /img/avator-curly lady_cropped-213x214.png
 blurb:
   heading: Mass Times
   text: |-
